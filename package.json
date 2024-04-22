@@ -1,6 +1,6 @@
 {
   "name": "numberguessing_proj01",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Number Guessing Game with Typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
